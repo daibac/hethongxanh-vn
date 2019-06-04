@@ -13,5 +13,4 @@ title: Welcome
 *  **Green Energy** - Using green ways to generate energy<br>
 *  **Green Tech** - Green products.<br>
 
-Managing the environmental impacts and benefits of IT is a strategic imperative for every organization in the 21st Century. 
-**Green System ! Lean today, lead tomorrow !**
+Managing the environmental impacts and benefits of IT is a strategic imperative for every organization in the 21st Century. **Green System ! Save IT today, save tomorrow !**

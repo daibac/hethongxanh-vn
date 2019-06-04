@@ -5,16 +5,16 @@ article:
       enabled: intro
     text:
       type: intro
-      limit: '200'
+      limit: ''
       formatting: text
     title:
       enabled: show
-      limit: '50'
+      limit: ''
     date:
       enabled: published
       format: 'l, F d, Y'
     read_more:
-      enabled: ''
+      enabled: show
       label: ''
       css: ''
     author:

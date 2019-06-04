@@ -1,28 +1,28 @@
 preset: preset3
 base:
   background: '#ffffff'
-  text-color: '#757575'
+  text-color: '#666666'
   body-font: family=Abel
   heading-font: family=Abel
 accent:
   color-1: '#508a29'
   color-2: '#8bc34a'
 header:
-  background: '#349922'
-  text-color: '#615d5d'
+  background: '#3c7216'
+  text-color: '#ffffff'
 navigation:
-  background: '#f6f5f5'
-  text-color: '#666666'
-  overlay: '#349922'
+  background: '#558b2f'
+  text-color: '#ffffff'
+  overlay: 'rgba(0, 0, 0, 0.4)'
 showcase:
   background: '#344e2c'
   image: ''
   text-color: '#ffffff'
 feature:
-  background: '#009614'
+  background: '#ffffff'
   text-color: '#666666'
 subfeature:
-  background: '#20bd1b'
+  background: '#f0f0f0'
   text-color: '#666666'
 main:
   background: '#ffffff'

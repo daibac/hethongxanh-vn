@@ -14,5 +14,4 @@ Nos trois principes :
 * **Green Business**
 * **Green Energy**
 * **Green Technology**
-
-Maîtriser les impacts environnementaux en utilisant les progrès de la technologie est un impératif stratégique pour chaque organisation dans le 21ème siècle. **Lean aujourd'hui, conduire demain!**
+Maîtriser les impacts environnementaux en utilisant les progrès de la technologie est un impératif stratégique pour chaque organisation dans le 21ème siècle. **Tout système devrait être vert !**

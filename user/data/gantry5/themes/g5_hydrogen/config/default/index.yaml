@@ -1,12 +1,12 @@
 name: default
-timestamp: 1558503601
+timestamp: 1558408710
 version: 7
 preset:
   image: 'gantry-admin://images/layouts/default.png'
   name: default
   timestamp: 1557546018
 positions:
-  header: Header
+  '': Header
   breadcrumbs: Breadcrumbs
   module-position: 'Module Position'
 sections:

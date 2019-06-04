@@ -4,7 +4,7 @@ from_name: 'He Thong Xanh''s Web Master'
 to: info@greensystem.vn
 to_name: 'Web Master'
 queue:
-  enabled: true
+  enabled: false
   flush_frequency: '* * * * *'
   flush_msg_limit: 10
   flush_time_limit: 100

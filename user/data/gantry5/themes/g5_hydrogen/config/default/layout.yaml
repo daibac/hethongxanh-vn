@@ -26,8 +26,8 @@ layout:
       - position-position-5560
   /footer/:
     -
-      - 'copyright-7559 50'
-      - 'langswitcher-5789 50'
+      - 'copyright-7559 70'
+      - 'langswitcher-5789 30'
   offcanvas:
     -
       - 'mobile-menu-5715 94'
@@ -50,7 +50,7 @@ content:
   position-header:
     attributes:
       enabled: 0
-      key: header
+      key: ''
   branding-8247:
     attributes:
       enabled: 0

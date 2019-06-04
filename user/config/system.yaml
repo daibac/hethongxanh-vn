@@ -9,8 +9,8 @@ pwd_regex: '(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}'
 intl_enabled: true
 languages:
   supported:
-    - vi
     - en
+    - vi
     - fr
   include_default_lang: true
   pages_fallback_only: false
@@ -135,12 +135,12 @@ images:
 media:
   enable_media_timestamp: false
   auto_metadata_exif: false
-  upload_limit: 8388608
+  upload_limit: 2097152
 session:
   enabled: true
   initialize: true
   timeout: 1800
-  name: hethongxanh
+  name: grav-site
   uniqueness: path
   secure: false
   httponly: true
